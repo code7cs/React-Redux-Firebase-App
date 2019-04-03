@@ -2,7 +2,7 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 import "firebase/auth";
 
-// Initialize Firebase
+// Replace this with your own config details
 var config = {
   apiKey: "AIzaSyDQ25gjL0beyeNakTPah7ppGDsl_ZOWZuM",
   authDomain: "hanfan-marioplan.firebaseapp.com",
